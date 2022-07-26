@@ -1,2 +1,14 @@
 # discord-n4ke-bot
-Discord N4ke Bot Made By Jimis#2825
+
+
+ 🆘 Προσοχή!
+
+Οδηγίες χρήσης: 
+  => Στο config υπάρχουν όλα όσα πρέπει να συμπληρώσετε για να λειτουργήσει σωστά το bot!
+
+  Config Preview: 
+  
+  "BotToken": "εδώ θα βάλετε το token του bot που έχετε δημιουργήσει από το discord developer portal"
+  "RolesName": "εδώ βάζετε το όνομα των ρόλων που θα δημιουργηθούν εν ώρα nuke"
+  "ServerName": "εδω θα βάλετε το όνομα που θέλετε να αλλάξει το bot στον server"
+  "ChannelsName": "εδώ θα βάλετε το όνομα των καναλιών που θα δημιουργηθούν εν ώρα nuke"
